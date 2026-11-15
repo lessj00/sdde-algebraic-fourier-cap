@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code and data for: Algebraic Fourier estimates for computer-assisted proofs in state-dependent delay equations"
+authors:
+  - family-names: Lessard
+    given-names: Jean-Philippe
+    affiliation: "McGill University"
+    orcid: "https://orcid.org/0000-0001-7672-6623"
+version: "1.0.0"
+date-released: "2026-11-14"
+license: MIT
+repository-code: "https://github.com/lessj00/sdde-algebraic-fourier-cap"
