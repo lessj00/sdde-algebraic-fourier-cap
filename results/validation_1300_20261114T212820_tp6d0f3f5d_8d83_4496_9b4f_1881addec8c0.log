@@ -1,0 +1,20 @@
+MATLAB 24.1.0.2689473 (R2024a) Update 6; INTLAB 13; N_u=1300; N=1320
+Crude derivative bounds...
+Midpoint derivative bounds...
+F_SDDE_rig_Cs... 
+Y <= 9.923e-11   (Galerkin part 9.2212e-11, tail 7.0184e-12)
+Pointwise residual... 
+   ||r||_C0 <= 1.0877e-13 (max|r(t_k)| = 9.806e-14, max rad = 9.7006e-14),  Y_res <= 1.8003e-10
+Y <= 9.923e-11
+Z2 <= 172.6894
+   fully pointwise:  Y_pw <= 1.8764e-12
+Y <= 1.8764e-12
+DF_SDDE_rig_Cs... 
+   Z_{1,0} <= 9.4478e-08 (matrix 9.4193e-08, evaluation 2.8527e-10) , Z_{1,1} <= 0.16277 , Z_{1,2} <= 0.071405
+Z1 <= 0.23418
+VERIFIED: both Newton--Kantorovich inequalities hold.
+Y <= 1.8764074149164763e-12
+Z1 <= 0.23417739488815145
+Z2 <= 172.68941204396762
+r0 <= 2.4501879146910331e-12
+Saved exact interval report: /Users/jean-philippelessard/Desktop/ChatGPT_Projects/AAMCS - proceedings/github_release/sdde-algebraic-fourier-cap/results/validation_1300_20261114T212820_tp6d0f3f5d_8d83_4496_9b4f_1881addec8c0.mat
